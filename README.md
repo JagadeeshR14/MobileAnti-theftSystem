@@ -40,17 +40,18 @@ It has the feature to detect when your Mobile phone is stolen in serval ways
 ## SOFTWARE REQUIRED :
 
 1. Android Studio - Integrated Development Environment (IDE) for Android app development.
-2. Google Maps API - For integrating location tracking functionalities.
-3. Classification and Clustering Tools - scikit-learn library in Python and K-means clustering algorithm from scikit-learn.
-4. Version Control - Git for managing source code.
-5. External Libraries: Third-party libraries for sensor data processing and image/video capture.
-6. Documentation Tools: Markdown for project documentation.
+2. Java/Kotlin Programming Language - For coding the Android application.
+3. Google Maps API - For integrating location tracking functionalities.
+4. Classification and Clustering Tools - scikit-learn library in Python and K-means clustering algorithm from scikit-learn.
+5. Version Control - Git for managing source code.
+6. External Libraries: Third-party libraries for sensor data processing and image/video capture.
+7. Documentation Tools: Markdown for project documentation.
 
 ## SYSTEM DESIGN :
 
 ![diagram-export-10-05-2024-00_26_49 copy](https://github.com/JagadeeshR14/MobileAnti-theftSystem/assets/139132404/ed988464-7480-4277-a9a1-ca48eb1b6bc0)
 
-There are the other Diagrams like Architecture and more. Click [here](SRPUID.pdf) to explore.
+There are the other Diagrams like Architecture and more. Click [here](Diagram) to explore.
 
 ## IMPLEMENTATION STEPS :
 
@@ -71,6 +72,15 @@ There are the other Diagrams like Architecture and more. Click [here](SRPUID.pdf
 + Implement authentication mechanisms to ensure secure access to remote control features.
 6. Alarm and Notification System:
 + Configure alarm sounds and visual alerts for theft detection events.
+
+## RESULT :
+
+1. Detection Accuracy - Measure the accuracy of motion detection and location tracking algorithms through testing.
+2. User Satisfaction - Gather feedback from beta testers to evaluate user experience and system effectiveness.
+3. Security Enhancements - Analyse security logs to identify system vulnerabilities and implement necessary improvements.
+4. Performance Optimization - Measure resource consumption and system responsiveness to optimize performance on various Android devices.
+
+Click [here](Result) to explore all the screenshot Results/Outputs of the Website and Application.
 
 ## CONCLUSION :
 
