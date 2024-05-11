@@ -50,6 +50,8 @@ It has the feature to detect when your Mobile phone is stolen in serval ways
 
 ![diagram-export-10-05-2024-00_26_49 copy](https://github.com/JagadeeshR14/MobileAnti-theftSystem/assets/139132404/ed988464-7480-4277-a9a1-ca48eb1b6bc0)
 
+There are the other Diagrams like Architecture and more. Click [here](https://github.com/JagadeeshR14/MobileAnti-thiftSystem/SRPUID.pdf) to explore.
+
 ## IMPLEMENTATION STEPS :
 
 1. Project Setup:
