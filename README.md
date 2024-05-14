@@ -88,14 +88,18 @@ The Python Notebook have the following functions :
 1. Dataset : Download the [Dataset](PY_Colab/Dataset) file from the repository.
 2. Source Code : Download the [Naive-Bayes_KNN_Classification.ipynb](PY_Colab/Naive-Bayes_KNN_Classification.ipynb)
 3. Implementation : Open the source code in the [Google-colab](https://colab.research.google.com) and Upload the dataset in the colab folder and run the code.
-4. Colab Link : https://colab.research.google.com/drive/1b44BtU-opocioKFNHrDt6M6ZRyFXdAK1?usp=sharing
+4. Colab Link :
++ Naive Bayes & KNN classification - https://colab.research.google.com/drive/1b44BtU-opocioKFNHrDt6M6ZRyFXdAK1?usp=sharing
++ SVM & Linear Regression Classification - 
 
 ## CLUSTERING :
 
 1. Dataset : Download the [Dataset](PY_Colab/Dataset) file from the repository.
 2. Source Code : Download the [K-Means Clustering.ipynb](PY_Colab/K-Means_Clustering.ipynb) and [Hierarchical-Agglo_Clustering.ipynb](PY_Colab/Hierarchical-Agglo_Clustering.ipynb)
 3. Implementation : Open the source code in the [Google-colab](https://colab.research.google.com) and Upload the dataset in the colab folder and run the code.
-4. Colab Link : K-Means Clustering - https://colab.research.google.com/drive/1bOyg4-gYxH9qR17oIwu5ikw3TmTtHmL5?usp=sharing and Hierarchical-Agglo Clustering - https://colab.research.google.com/drive/1E-NXBZsqgW64MCuMV-Zrq0n3UsxnkOg-?usp=sharing
+4. Colab Link :
++ K-Means Clustering - https://colab.research.google.com/drive/1bOyg4-gYxH9qR17oIwu5ikw3TmTtHmL5?usp=sharing
++ Hierarchical-Agglo Clustering - https://colab.research.google.com/drive/1E-NXBZsqgW64MCuMV-Zrq0n3UsxnkOg-?usp=sharing
 
 ## RESULT :
 
