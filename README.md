@@ -86,11 +86,11 @@ The Python Notebook have the following functions :
 ## CLASSIFICATION :
 
 1. Dataset : Download the [Dataset](PY_Colab/Dataset) file from the repository.
-2. Source Code : Download the [Naive-Bayes_KNN_Classification.ipynb](PY_Colab/Naive-Bayes_KNN_Classification.ipynb)
+2. Source Code : Download the [Naive-Bayes_KNN_Classification.ipynb](PY_Colab/Naive-Bayes_KNN_Classification.ipynb) and [SVM_LogisticRegression_Classification.ipynb](PY_Colab/SVM_LogisticRegression_Classification.ipynb)
 3. Implementation : Open the source code in the [Google-colab](https://colab.research.google.com) and Upload the dataset in the colab folder and run the code.
 4. Colab Link :
 + Naive Bayes & KNN classification - https://colab.research.google.com/drive/1b44BtU-opocioKFNHrDt6M6ZRyFXdAK1?usp=sharing
-+ SVM & Linear Regression Classification - 
++ SVM & Logistic Regression Classification - https://colab.research.google.com/drive/1qWz0nw4ZvfOlZ1AJ2sxYpvzjoIb9HxJq?usp=sharing
 
 ## CLUSTERING :
 
