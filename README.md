@@ -1,8 +1,9 @@
 # MOBILE ANTI-THEFT SYSTEM
 
-### There are 2 things implemented in this project :
+### There are 3 things implemented in this project :
 1. A website to show the impact of Mobile theft, Various mobiles and Data collected for mobiel theft.
 2. Mobile Anti-Theft System Applications to detect the Mobile Theft in serval ways.
+3. A Python notebook (Colab) to show the analytics through Machine Learning models based on a similar dataset.
 
 ## ABSTRACT :
 
@@ -19,6 +20,14 @@ The Website have the following functions :
 - List of stolen mobiles in different countries
 * Mobile brands and Model specification
 + Serval Approaches to Anti-theft System for Mobile Phones
+
+## IMPLEMENTATION STEPS :
+1. Install XAMPP
+2. Open XAMPP start all the servers
+3. Download the [WEB-SRP](WEB-SRP.zip) file from the repository
+4. Unzip and Move the downloaded file to the XAMPP **htdocs** folder
+5. Run the home.html file from the WEB-SRP folder in the web browser
+6. Example : http://localhost/Web-SRP/home.html
 
 ## APPLICATION :
 
@@ -55,23 +64,38 @@ There are the other Diagrams like Architecture and more. Click [here](Diagram) t
 
 ## IMPLEMENTATION STEPS :
 
-1. Project Setup:
-+ Install Android Studio and necessary SDKs.
-+ Set up Git repository for version control.
-2. Sensor Data Processing:
-+ Develop algorithms in Java/Kotlin for analyzing accelerometer and gyroscope data to detect motion patterns.
-+ Integrate sensor data processing into the Android app.
-3. Location Tracking:
-+ Implement GPS-based location tracking using Google Maps API.
-+ Define geofencing functionalities to establish safe zones and monitor device movement.
-4. User Interface Design:
-+ Design intuitive user interface screens for configuring system settings and viewing security alerts.
-+ Implement interactive elements for user interaction.
-5. Remote Control and Security:
-+ Develop features for remote locking, data wiping, and capturing images/video through the mobile app.
-+ Implement authentication mechanisms to ensure secure access to remote control features.
-6. Alarm and Notification System:
-+ Configure alarm sounds and visual alerts for theft detection events.
+1. Install Android Studio and necessary SDKs.
+2. Set up Git repository for version control.
+3. Download the [Anti_Theft_App](Anti_Theft_App) and [Sim_change_detection](Sim_change_detection) file and open separately in the Android Studio.
+4. Develop algorithms in Java/Kotlin for analyzing accelerometer and gyroscope data to detect motion patterns.
+5. Integrate sensor data processing into the Android app.
+6. Design intuitive user interface screens for configuring system settings and viewing security alerts.
+7. Implement interactive elements for user interaction.
+8. Develop features for remote locking, data wiping, and capturing images/video through the mobile app.
+9. Implement authentication mechanisms to ensure secure access to remote control features.
+10. Configure alarm sounds and visual alerts for theft detection events.
+11. To Create a Simulation select a Mobile model and download the resource.
+12. Run the application and test the application through the Simulation.
+
+## PYTHON NOTEBOOK :
+
+The Python Notebook have the following functions :
+- Classification
+- Clustering
+
+## CLASSIFICATION :
+
+1. Dataset : Download the [Dataset](PY_Colab/Dataset) file from the repository.
+2. Source Code : Download the [Naive-Bayes_KNN_Classification.ipynb](PY_Colab/Naive-Bayes_KNN_Classification.ipynb)
+3. Implementation : Open the source code in the [Google-colab](https://colab.research.google.com) and Upload the dataset in the colab folder and run the code.
+4. Colab Link : https://colab.research.google.com/drive/1b44BtU-opocioKFNHrDt6M6ZRyFXdAK1?usp=sharing
+
+## CLUSTERING :
+
+1. Dataset : Download the [Dataset](PY_Colab/Dataset) file from the repository.
+2. Source Code : Download the [K-Means Clustering.ipynb](PY_Colab/K-Means_Clustering.ipynb) and [Hierarchical-Agglo_Clustering.ipynb](PY_Colab/Hierarchical-Agglo_Clustering.ipynb)
+3. Implementation : Open the source code in the [Google-colab](https://colab.research.google.com) and Upload the dataset in the colab folder and run the code.
+4. Colab Link : K-Means Clustering - https://colab.research.google.com/drive/1bOyg4-gYxH9qR17oIwu5ikw3TmTtHmL5?usp=sharing and Hierarchical-Agglo Clustering - https://colab.research.google.com/drive/1E-NXBZsqgW64MCuMV-Zrq0n3UsxnkOg-?usp=sharing
 
 ## RESULT :
 
@@ -80,7 +104,7 @@ There are the other Diagrams like Architecture and more. Click [here](Diagram) t
 3. Security Enhancements - Analyse security logs to identify system vulnerabilities and implement necessary improvements.
 4. Performance Optimization - Measure resource consumption and system responsiveness to optimize performance on various Android devices.
 
-Click [here](Result) to explore all the screenshot Results/Outputs of the Website and Application.
+Click [here](Result) to explore all the screenshot Results/Outputs of the Website, Application and Python Notebook.
 
 ## CONCLUSION :
 
