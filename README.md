@@ -24,7 +24,7 @@ The Website have the following functions :
 ## IMPLEMENTATION STEPS :
 1. Install XAMPP
 2. Open XAMPP start all the servers
-3. Download the [WEB-SRP](WEB-SRP.zip) file from the repository
+3. Download the [Web-SRP](Web-SRP.zip) file from the repository
 4. Unzip and Move the downloaded file to the XAMPP **htdocs** folder
 5. Run the home.html file from the WEB-SRP folder in the web browser
 6. Example : http://localhost/Web-SRP/home.html
