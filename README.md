@@ -23,7 +23,7 @@ The Website have the following functions :
 
 ## IMPLEMENTATION STEPS :
 1. Install XAMPP
-2. Open XAMPP start all the servers
+2. Open XAMPP and start all the servers
 3. Download the [Web-SRP](Web-SRP.zip) file from the repository
 4. Unzip and Move the downloaded file to the XAMPP **htdocs** folder
 5. Run the home.html file from the WEB-SRP folder in the web browser
@@ -89,8 +89,8 @@ The Python Notebook have the following functions :
 2. Source Code : Download the [Naive-Bayes_KNN_Classification.ipynb](PY_Colab/Naive-Bayes_KNN_Classification.ipynb) and [SVM_LogisticRegression_Classification.ipynb](PY_Colab/SVM_LogisticRegression_Classification.ipynb)
 3. Implementation : Open the source code in the [Google-colab](https://colab.research.google.com) and Upload the dataset in the colab folder and run the code.
 4. Colab Link :
-+ Naive Bayes & KNN classification - https://colab.research.google.com/drive/1b44BtU-opocioKFNHrDt6M6ZRyFXdAK1?usp=sharing
-+ SVM & Logistic Regression Classification - https://colab.research.google.com/drive/1qWz0nw4ZvfOlZ1AJ2sxYpvzjoIb9HxJq?usp=sharing
+    + Naive Bayes & KNN classification - https://colab.research.google.com/drive/1b44BtU-opocioKFNHrDt6M6ZRyFXdAK1?usp=sharing
+    + SVM & Logistic Regression Classification - https://colab.research.google.com/drive/1qWz0nw4ZvfOlZ1AJ2sxYpvzjoIb9HxJq?usp=sharing
 
 ## CLUSTERING :
 
@@ -98,8 +98,8 @@ The Python Notebook have the following functions :
 2. Source Code : Download the [K-Means Clustering.ipynb](PY_Colab/K-Means_Clustering.ipynb) and [Hierarchical-Agglo_Clustering.ipynb](PY_Colab/Hierarchical-Agglo_Clustering.ipynb)
 3. Implementation : Open the source code in the [Google-colab](https://colab.research.google.com) and Upload the dataset in the colab folder and run the code.
 4. Colab Link :
-+ K-Means Clustering - https://colab.research.google.com/drive/1bOyg4-gYxH9qR17oIwu5ikw3TmTtHmL5?usp=sharing
-+ Hierarchical-Agglo Clustering - https://colab.research.google.com/drive/1E-NXBZsqgW64MCuMV-Zrq0n3UsxnkOg-?usp=sharing
+   + K-Means Clustering - https://colab.research.google.com/drive/1bOyg4-gYxH9qR17oIwu5ikw3TmTtHmL5?usp=sharing
+   + Hierarchical-Agglo Clustering - https://colab.research.google.com/drive/1E-NXBZsqgW64MCuMV-Zrq0n3UsxnkOg-?usp=sharing
 
 ## RESULT :
 
